@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{The art of DP}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Ebola}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Elegent}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Shake It!}{16}{0}{2}
+\beamer@sectionintoc {3}{Linear Recurrence}{24}{0}{3}
+\beamer@subsectionintoc {3}{1}{from NOIP to NOI}{24}{0}{3}
